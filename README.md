@@ -29,17 +29,17 @@ I am a University Student passionate about technology and process optimization, 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HumaidhMilhan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumaidhMilhan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### 🌌 3D Contribution View
-![GitHub Skyline](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/main/profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub Skyline](https://raw.githubusercontent.com/HumaidhMilhan/HumaidhMilhan/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=HumaidhMilhan&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
