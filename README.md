@@ -1,5 +1,6 @@
 <div align="center">       
-# Humaidh Milhan
+ Humaidh Milhan 
+  
 **Digital Architect · Creative Developer · AI Workflow Enthusiast**
 
 </div>
