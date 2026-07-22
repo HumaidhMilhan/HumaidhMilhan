@@ -1,39 +1,12 @@
-<div align="center">
-
-
-                                                                                                                         
-                              %                                 
-                           *==+-==+++                           
-                          =--+===-==+*##*                       
-                         =-=---------=--==#                     
-                        =--=+###%#*=-=--==--*                   
-                        -=+%%%%%%%#*+-=-=----                   
-                        -%%%%%%%%%#*++----=--                   
-                      -#**%*#**===++*+=------=                  
-                      +%*=+*%%+=====++-------=                  
-                       %%%%%%#=##%#=**+=-----                   
-                       %%#+-+-*####***+=-++-=                   
-                       ##%#%#*####**++++*++-#                   
-                       ##+*%#*-++*++++==*+=#                    
-                        **+==++++++++++-+                       
-                         *#****++++++++                         
-                         %+=========++=                         
-                       %%=*+=====+++++-#                        
-                   %%%%%%#*++==++++++=*%#%%                     
-               %%%%%%%%%%%=+++++++++==#%%%%%%%#                 
-           %%%%%%%%%%%%%-=#=+*+++++=+%%+=%%%%%%%%%%             
-   
-
+<div align="center">       
 # Humaidh Milhan
 **Digital Architect · Creative Developer · AI Workflow Enthusiast**
-
-*“Crafting logic into functional art.”*
 
 </div>
 
 ---
 
-### ✦ The Artist's Statement
+### ✦ The Profile
 
 I am an Information Technology & Management undergraduate blending technical rigor with creative problem-solving. My canvas is the terminal, and my mediums are logic, algorithms, and iterative design. I embrace AI-assisted and agentic workflows not just to write code, but to deeply understand the architecture of the software I ship. 
 
